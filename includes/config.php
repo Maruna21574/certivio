@@ -10,7 +10,7 @@ if (session_status() === PHP_SESSION_NONE) {
 
 const SITE_NAME   = 'CERTIVIO';
 const SITE_TAG    = 'Energetické certifikáty budov';
-const SITE_DOMAIN = 'https://www.certivio.sk';   // zmeňte na skutočnú doménu
+const SITE_DOMAIN = 'https://certivio.clicki.sk';   // zmeňte na skutočnú doménu
 const MAIL_TO     = 'info@certivio.sk';          // sem prichádzajú správy z formulára
 const MAIL_FROM   = 'web@certivio.sk';           // odosielateľ (musí existovať na hostingu)
 
