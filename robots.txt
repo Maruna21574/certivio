@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /includes/
+Disallow: /send.php
+
+Sitemap: https://www.certivio.sk/sitemap.xml
